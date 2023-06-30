@@ -2,7 +2,7 @@
 
 This repository throws light on my submission for the Deloitte STEM Virtual Internship Program. In this program, I was asked to help Daikibo Industrials which is a global leader in manufacturing of heavy machinery with variety of problems that they are facing.
 
-* ## Task 1: Coding *
+**## Task 1: Coding**
 
 Daikibo is in the process of integrating IIoT (Industrial Internet-of-Things) devices to monitor, measure and analyze their manufacturing processes. Half of their infrastructure uses devices streaming telemetry data in one format, and the other half in another. They need help to combine the two files.
 
